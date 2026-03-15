@@ -1,4 +1,4 @@
-[![Header](https://github.com/AKIM1001/AKIM1001/blob/main/assets/Ak.png)](https://t.me/AkimChilmay)
+[![Header](https://github.com/AKIM1001/AKIM1001/blob/main/assets/Akk.jpg)](https://t.me/AkimChilmay)
 
 # Welcome, I'm Akim 
 
