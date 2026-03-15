@@ -12,6 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23283336?style=for-the-badge&logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/Gradle-%23283336?style=for-the-badge&logo=gradle)
 ![Static Badge](https://img.shields.io/badge/Hibernate-%23283336?style=for-the-badge&logo=hibernate)
+
 ![Static Badge](https://img.shields.io/badge/Apache%20Kafka-%23283336?style=for-the-badge&logo=apachekafka)
 ![Static Badge](https://img.shields.io/badge/Docker-%23283336?style=for-the-badge&logo=docker)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-%23283336?style=for-the-badge&logo=kubernetes)
