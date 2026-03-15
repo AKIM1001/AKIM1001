@@ -20,6 +20,12 @@
 ![Static Badge](https://img.shields.io/badge/Maven-%23283336?style=for-the-badge&logo=apachemaven)
 ![Static Badge](https://img.shields.io/badge/Cassandra-%23283336?style=for-the-badge&logo=apachecassandra)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%23283336?style=for-the-badge&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/Python-%23283336?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/Flask-%23283336?style=for-the-badge&logo=flask)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%23283336?style=for-the-badge&logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/Linux-%23283336?style=for-the-badge&logo=linux)
+![Static Badge](https://img.shields.io/badge/Terminal-%23283336?style=for-the-badge&logo=gnometerminal)
+
 
 
 Follow me
