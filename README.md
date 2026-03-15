@@ -8,29 +8,30 @@
 > Linux :]
 
 ## Languages and Tools:
-![Static Badge](https://img.shields.io/badge/Spring%20Framework-%23283336?style=for-the-badge&logo=spring)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-%23283336?style=for-the-badge&logo=postgresql)
-![Static Badge](https://img.shields.io/badge/Gradle-%23283336?style=for-the-badge&logo=gradle)
-![Static Badge](https://img.shields.io/badge/Hibernate-%23283336?style=for-the-badge&logo=hibernate)
-![Static Badge](https://img.shields.io/badge/Apache%20Kafka-%23283336?style=for-the-badge&logo=apachekafka)
-![Static Badge](https://img.shields.io/badge/Docker-%23283336?style=for-the-badge&logo=docker)
-![Static Badge](https://img.shields.io/badge/Kubernetes-%23283336?style=for-the-badge&logo=kubernetes)
-![Static Badge](https://img.shields.io/badge/Grafana-%23283336?style=for-the-badge&logo=grafana)
-![Static Badge](https://img.shields.io/badge/Prometheus-%23283336?style=for-the-badge&logo=prometheus)
-![Static Badge](https://img.shields.io/badge/Maven-%23283336?style=for-the-badge&logo=apachemaven)
-![Static Badge](https://img.shields.io/badge/Cassandra-%23283336?style=for-the-badge&logo=apachecassandra)
-![Static Badge](https://img.shields.io/badge/MongoDB-%23283336?style=for-the-badge&logo=mongodb)
-![Static Badge](https://img.shields.io/badge/Python-%23283336?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/Flask-%23283336?style=for-the-badge&logo=flask)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%23283336?style=for-the-badge&logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/Linux-%23283336?style=for-the-badge&logo=linux)
-![Static Badge](https://img.shields.io/badge/Terminal-%23283336?style=for-the-badge&logo=gnometerminal)
+![Java](https://img.shields.io/badge/Java-%23283336?style=for-the-badge&logo=openjdk)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-%23283336?style=for-the-badge&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23283336?style=for-the-badge&logo=postgresql)
+![Gradle](https://img.shields.io/badge/Gradle-%23283336?style=for-the-badge&logo=gradle)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23283336?style=for-the-badge&logo=hibernate)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23283336?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-%23283336?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23283336?style=for-the-badge&logo=kubernetes)
+![Grafana](https://img.shields.io/badge/Grafana-%23283336?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23283336?style=for-the-badge&logo=prometheus)
+![Maven](https://img.shields.io/badge/Maven-%23283336?style=for-the-badge&logo=apachemaven)
+![Redis](https://img.shields.io/badge/Redis-%23283336?style=for-the-badge&logo=redis)
+![Cassandra](https://img.shields.io/badge/Cassandra-%23283336?style=for-the-badge&logo=apachecassandra)
+![MongoDb](https://img.shields.io/badge/MongoDB-%23283336?style=for-the-badge&logo=mongodb)
+![Python](https://img.shields.io/badge/Python-%23283336?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-%23283336?style=for-the-badge&logo=flask)
+![C++](https://img.shields.io/badge/C%2B%2B-%23283336?style=for-the-badge&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-%23283336?style=for-the-badge&logo=linux)
+![Terminal](https://img.shields.io/badge/Terminal-%23283336?style=for-the-badge&logo=gnometerminal)
 
 
 
 ## Follow me:
-![[Static Badge](https://img.shields.io/badge/Telegram-%23283336?style=for-the-badge&logo=telegram)](https://t.me/AkimChilmay)
-![[Static Badge](https://img.shields.io/badge/Gmail-%23283336?style=for-the-badge&logo=gmail)](mailto:akimba94@gmail.com?subject=GitHub%20Contact)
-![[Static Badge](https://img.shields.io/badge/Discord-%23283336?style=for-the-badge&logo=discord)](https://discord.com/users/1128448833869840554)
-
+[![Telegram](https://img.shields.io/badge/Telegram-%23283336?style=for-the-badge&logo=telegram)](https://t.me/AkimChilmay)
+[![Gmail](https://img.shields.io/badge/Gmail-%23283336?style=for-the-badge&logo=gmail)](mailto:akimba94@gmail.com?subject=GitHub%20Contact)
+[![Discord](https://img.shields.io/badge/Discord-%23283336?style=for-the-badge&logo=discord)](https://discord.com/users/1128448833869840554)
 
