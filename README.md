@@ -8,9 +8,6 @@
 > Linux :]
 
 ## Languages and Tools:
- ![Flutter](https://img.shields.io/badge/-Flutter-090909)
-
-![Spring](spring)
-Languages and tools
+![Static Badge](https://img.shields.io/badge/Spring-%23283336?style=for-the-badge&logo=spring)
 
 Follow me
