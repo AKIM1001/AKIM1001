@@ -2,12 +2,15 @@
 
 # Welcome, I'm Akim 
 
-> My name is Akim, I'm Java Developer (mostly). I'm now learning in university, I like working with
-> Spring Framework, make different projects. I great can using very many instruments on Java, have
-> experience work with Python, JavaScript, C++. I'm very proficient with the terminal and Linux :]
+> My name is Akim, I'm Java Developer (mostly). I'm now learning in university, I'm in programming since 
+> 2024 year. I proficient Spring Framework, make different projects. I great can using very many instruments 
+> on Java, have experience work with Python, JavaScript, C++. I'm very proficient with the terminal and 
+> Linux :]
 
-About
+## Languages and Tools:
+ ![Flutter](https://img.shields.io/badge/-Flutter-090909)
 
+![Spring](spring)
 Languages and tools
 
 Follow me
