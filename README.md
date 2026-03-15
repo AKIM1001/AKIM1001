@@ -8,6 +8,18 @@
 > Linux :]
 
 ## Languages and Tools:
-![Static Badge](https://img.shields.io/badge/Spring-%23283336?style=for-the-badge&logo=spring)
+![Static Badge](https://img.shields.io/badge/Spring%20Framework-%23283336?style=for-the-badge&logo=spring)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%23283336?style=for-the-badge&logo=postgresql)
+![Static Badge](https://img.shields.io/badge/Gradle-%23283336?style=for-the-badge&logo=gradle)
+![Static Badge](https://img.shields.io/badge/Hibernate-%23283336?style=for-the-badge&logo=hibernate)
+![Static Badge](https://img.shields.io/badge/Apache%20Kafka-%23283336?style=for-the-badge&logo=apachekafka)
+![Static Badge](https://img.shields.io/badge/Docker-%23283336?style=for-the-badge&logo=docker)
+![Static Badge](https://img.shields.io/badge/Kubernetes-%23283336?style=for-the-badge&logo=kubernetes)
+![Static Badge](https://img.shields.io/badge/Grafana-%23283336?style=for-the-badge&logo=grafana)
+![Static Badge](https://img.shields.io/badge/Prometheus-%23283336?style=for-the-badge&logo=prometheus)
+![Static Badge](https://img.shields.io/badge/Maven-%23283336?style=for-the-badge&logo=apachemaven)
+![Static Badge](https://img.shields.io/badge/Cassandra-%23283336?style=for-the-badge&logo=apachecassandra)
+![Static Badge](https://img.shields.io/badge/MongoDB-%23283336?style=for-the-badge&logo=mongodb)
+
 
 Follow me
