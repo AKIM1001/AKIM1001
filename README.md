@@ -1,4 +1,4 @@
-[![Header](https://github.com/AKIM1001/AKIM1001/blob/main/assets/Akk.jpg)](https://t.me/AkimChilmay)
+[![Header](https://github.com/AKIM1001/AKIM1001/blob/main/assets/Akk.jpg)](https://t.me/VagyAngsty5677)
 
 # Welcome, I'm Akim 
 
@@ -31,7 +31,7 @@
 
 
 ## Follow me:
-[![Telegram](https://img.shields.io/badge/Telegram-%23283336?style=for-the-badge&logo=telegram)](https://t.me/AkimChilmay)
+[![Telegram](https://img.shields.io/badge/Telegram-%23283336?style=for-the-badge&logo=telegram)](https://t.me/VagyAngsty5677)
 [![Gmail](https://img.shields.io/badge/Gmail-%23283336?style=for-the-badge&logo=gmail)](mailto:akimba94@gmail.com?subject=GitHub%20Contact)
 [![Discord](https://img.shields.io/badge/Discord-%23283336?style=for-the-badge&logo=discord)](https://discord.com/users/1128448833869840554)
 
